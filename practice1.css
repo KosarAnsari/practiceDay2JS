@@ -1,0 +1,14 @@
+#info{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    text-align: center;
+    margin: 5px;
+}
+
+.box{
+    height:100px;
+    width:100px;
+    border: 1px solid;
+    margin: 5px;
+}
